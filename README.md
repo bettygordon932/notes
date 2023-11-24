@@ -36,3 +36,8 @@ To stay current, make it a habit to read blogs, follow industry leaders, and att
 
 # 2023-11-23
 - "Keep it simple, stupid!"
+
+# 2023-11-24
+- "Write code that is easy to understand and maintain. Don't sacrifice readability for short-term efficiency gains. Remember, you'll spend more time reading and maintaining code than writing it." 
+
+编程智慧是写出易于理解和维护的代码，不要为了短期的效率提升而牺牲可读性。请记住，你将花费更多的时间阅读和维护代码，而不是编写它。
