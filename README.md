@@ -46,3 +46,6 @@ To stay current, make it a habit to read blogs, follow industry leaders, and att
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote humorously highlights the importance of considering the end-users when designing and developing software. No matter how robust and well-structured a program may be, it ultimately relies on the user's understanding and ability to navigate it effectively. Therefore, programmers must strive to create intuitive and user-friendly interfaces while also anticipating potential user errors and implementing safeguards against them.
+
+# 2023-11-26
+- "Write code that is easy to understand and maintain. Use clear and descriptive variable names, write concise and well-structured functions, and avoid unnecessary complexity. Remember that code is read more often than it is written, so make it easy for others (and your future self) to read and understand."
