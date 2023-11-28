@@ -55,3 +55,6 @@ This quote humorously highlights the importance of considering the end-users whe
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use a task management tool, such as Trello or Asana, to keep track of tasks and their priorities. 
  ..Next, think ahead and plan your work. As you begin a new project or task, take a moment to consider how you will approach it and what challenges you may encounter. Then, create a plan that outlines the steps you need to take to complete the task. Having a clear plan will make it easier for youto stay focused and avoid getting sidetracked. Finally, stayorganized. Keep your workspace clean and clutter-free, use version control,and organize your files and code. Following these best practices willhelp you find and fix errors more quickly, making yourcode more reliable and efficient.
+
+# 2023-11-28
+- "Keep it simple, stupid!"
