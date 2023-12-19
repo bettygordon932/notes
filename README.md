@@ -135,3 +135,15 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-12-18
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadline. Next, allocate time for each task, making sure to leave enough time to address any potential issues or delays. Finally, use task management tools and versions control systems to stay organised and track your progress. By following these steps, you will be able to better manage your workload and achieve your goals more effectively.
+
+# 2023-12-19
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. Break down large projects into smaller, manageable tasks.
+2. Use task management tools, such as Trello or Asana, to keep track of your progress. 
+3. Set deadlines for each task and prioritize them based on their importance and urgency.  
+4. Learn to say "no" to tasks that are outside your scope or don't align with your goals.   
+5. Take regular breaks to avoid burnout and maintain focus.    
+6. Stay up-to-date with the latest programming technologies and tools to stay competitive in the job market.     
+7. Seek help and feedback from peers and mentors to improve your skills and understanding.      
+8. Don'ts: Procrastinate, avoid difficult problems, or rely on others to do your job for you.
