@@ -147,3 +147,9 @@ Another important aspect of programming wise is problem-solving. When faced with
 6. Stay up-to-date with the latest programming technologies and tools to stay competitive in the job market.     
 7. Seek help and feedback from peers and mentors to improve your skills and understanding.      
 8. Don'ts: Procrastinate, avoid difficult problems, or rely on others to do your job for you.
+
+# 2023-12-20
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By giving priority to the critical tasks first, you can ensure that your project stays on track and meets its deadlines. Use a task management tool, such as Trello or Asana, to help keep track of your tasks and their priorities. 
+ 2. Plan ahead: Planning is crucial for any project. When starting a new project or working with a team, make sure to plan out the entire process, including the deadlines, milestones, tasks to complete, etc. Planning ahead will prevent last-minute surprises and ensure a smooth execution of the project 3. Stay organized: A clean and organized codebase is a joy to work with. Make sure you use version control, like Git, regularly to keep your code organized and trackable. Additionally, use code formatting and linting tools, as well as code documentation, for easier maintenance and understanding of code.
