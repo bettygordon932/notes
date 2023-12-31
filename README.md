@@ -186,3 +186,9 @@ Second, planning ahead is crucial for success. Make a plan for your day, week, o
 
 # 2023-12-30
 - "Keep it simple, stupid!"
+
+# 2023-12-31
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques like the "MoSCoW" method to categorize your task as Must have, Should have or Could have.This will ensure you are focusing your efforts on the most important aspects of a task. 
+ 其次，提前计划。在开始一个项目之前，确保你了解项目的需求和目标。这将帮助你在编写代码时避免不必要的麻烦。为你即将进行的任务制定一个详细的计划，包括代码结构、功能实现和测试。This plan will serve as a guide for your work and can be easily referenced as you progress through the code. It will also help to minimize the amount of time spent on troubleshooting and debugging issues.
