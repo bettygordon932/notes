@@ -192,3 +192,14 @@ Second, planning ahead is crucial for success. Make a plan for your day, week, o
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques like the "MoSCoW" method to categorize your task as Must have, Should have or Could have.This will ensure you are focusing your efforts on the most important aspects of a task. 
  其次，提前计划。在开始一个项目之前，确保你了解项目的需求和目标。这将帮助你在编写代码时避免不必要的麻烦。为你即将进行的任务制定一个详细的计划，包括代码结构、功能实现和测试。This plan will serve as a guide for your work and can be easily referenced as you progress through the code. It will also help to minimize the amount of time spent on troubleshooting and debugging issues.
+
+# 2024-01-01
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, strive for clarity and maintainability over complexity. Write code that is easy to read, understand, and debug. Always remember that code is read far more often than it is written. So, keep it simple and elegant, embrace modularity, and avoid premature optimization." 
+
+In practical terms, this means:
+1. Use descriptive variable names.
+2. Write functions with a single, clear purpose.
+3. Employ consistent formatting and adhere to coding standards.
+4. Optimize only when necessary and after profiling.
+5. Continuously refactor to remove unnecessary complexity. 
+6. Design for change, as software inevitably evolves over time.
