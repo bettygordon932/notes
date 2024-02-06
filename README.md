@@ -383,3 +383,10 @@ In essence, keep it simple, organized, well-documented, and future-proof.
 
 # 2024-02-05
 - "Keep it simple, stupid!"
+
+# 2024-02-06
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest programming languages, tools, and techniques.
+
+To be successful in the programming field, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, etc. These principles will help you design and develop efficient, scalable, maintainable, secure, testable software. Additionally, learning about different programming paradigms, like object-oriented programming, functional programming and reactive programming can broaden your skillset and make you a more versatile programmer. 
+ 学习新技能的最佳方法是实践。尝试为自己设定项目，或者加入开源项目。这将帮助你巩固所学，并在实际环境中应用新知识。同时，与他人合作和学习他们的经验也是提高编程技能的有效方法。
+ 最后，保持耐心和毅力。学习编程可能会很困难，但通过不断努力和实践，你将逐渐掌握所需的技能。记住，成为一名成功的程序员需要时间和努力，但你可以在这一过程中不断成长和积累经验。
