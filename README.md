@@ -533,3 +533,6 @@ In essence, write code that's easy to read, understand, and modify—not just by
 
 First, prioritize your tasks. When you are working on a project, there will always be multiple things that need to get done. By prioritizing your task list, you can make sure that you focus on the most important tasks first. You can use techniques like the Eisenhower Matrix to help determine the priority of your duties. The Eisenheimer Matrix groups tasks into four categories: urgent and important, urgent but not important. important but non-urgent, non urgent non important (Eisenhower, 1964). 
  .By focusing on urgent tasks and those that are important to your project' s success,you can ensure that your time is well spent.This also helps to avoid procrastination and the temptation to work on less important things.
+
+# 2024-03-11
+- "Keep it simple, stupid!"
