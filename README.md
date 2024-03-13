@@ -547,3 +547,6 @@ First, prioritize your tasks. When you are working on a project, there will alwa
 5. Stay organized: Keep your workspace clean and clutter-free, to reduce the risk of losing important files or misplacing code. Additionally, organize and label your files and folders to make finding and maintaining your code easier.    
 6. Learn from others: Read blogs, watch tutorials, attend conferences, join online communities, etc. to stay up-to-date with industry trends and best practices. By learning from experienced developers, you'll be better equipped to solve problems and improve your own skills.     
 7. Practice continuous learning: As technology and programming languages evolve, it' s crucial to continuously learn and adapt to new developments. Dedicate time each week to learn new skills or brush up on existing ones.
+
+# 2024-03-13
+- "Keep it simple, stupid!"
